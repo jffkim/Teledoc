@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\teledoc_app\teledoc_app\build\windows\x64\CMakeFiles\6263df7c3ac2cfcdc59d81c0f151ba72\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5AC084A-4B7C-3C97-A427-7DC01164DB77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
